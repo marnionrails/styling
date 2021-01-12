@@ -16,3 +16,11 @@ p.author {
 .unimportant {
   color: blue;
 }
+
+.highlight {
+  background-color: yellow;
+}
+
+.fish-type {
+  font-family: Arial;
+}
