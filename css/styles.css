@@ -24,3 +24,8 @@ p.author {
 .fish-type {
   font-family: Arial;
 }
+
+img {
+  float: left;
+  width: 20%;
+}
